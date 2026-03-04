@@ -15,14 +15,14 @@ h1 {
 h2 {
     font-family: "Manrope", sans-serif;
     font-size: 1.75rem;
-    color: #9B8269;
+    color: #5F5449;
     line-height: 1.25;
 }
 
 h3 {
     font-family: "Manrope", sans-serif;
     font-size: 1.75rem;
-    color: #9B8269;
+    color: #5F5449;
     line-height: 1.25;
 }
 
@@ -43,20 +43,20 @@ hr {
 }
 
 /* link styles */
-a:link { color: #4A3A2A; }
+a:link { color: #2F241A; }
+
+a:active, a:focus { color: #2F241A; }
 
 a:visited {
-    color: #5A4633;
+    color: #3B2E22;
     font-style: italic;
 }
 
 a:hover {
-    color: #3B2E22;
+    color: #4A3A2A;
     text-decoration: underline;
     font-weight: 600;
 }
-
-a:active, a:focus { color: #3B2E22; }
 
 /* list styles */
 ul li {
