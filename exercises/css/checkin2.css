@@ -43,20 +43,20 @@ hr {
 }
 
 /* link styles */
-a:link { color: #9B8269; }
+a:link { color: #4A3A2A; }
 
 a:visited {
-    color: #C4A575;
+    color: #5A4633;
     font-style: italic;
 }
 
 a:hover {
-    color: #5F5449;
+    color: #3B2E22;
     text-decoration: underline;
     font-weight: 600;
 }
 
-a:active, a:focus { color: #5F5449; }
+a:active, a:focus { color: #3B2E22; }
 
 /* list styles */
 ul li {
